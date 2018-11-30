@@ -4,7 +4,11 @@ Quick Start:
 
 ```
 npm i -g create-npm-create
-create-npm-create MyProjectGenerator
+create-npm-create create-example-app
+
+or
+
+npx create-npm-create create-example-app
 ```
 
 Welcome to packageception 😈
