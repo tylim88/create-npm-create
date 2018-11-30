@@ -3,7 +3,7 @@
 Quick Start:
 
 ```
-npm i -g create-npm-package
+npm i -g create-npm-create
 create-npm-create MyProjectGenerator
 ```
 
