@@ -18,9 +18,11 @@ program
   .parse(process.argv)
 
 const createPrismaApp = (projectName) => {
+  const projectPath = `${process.cwd()}/${projectName}`
   try {
     console.log(chalk.bgYellow.black('installing...'))
-    fs.copySync(`${__dirname}/template`, `${process.cwd()}/${projectName}`)
+    fs.copySync(`${__dirname}/template`, projectPath)
+    fs.move(`${projectPath}/toBeRename`, `${projectPath}/.gitignore`)
     execa
       .shell(`cd ${process.cwd()}/${projectName} && npm i`)
       .then((result) => {
@@ -35,5 +37,9 @@ const createPrismaApp = (projectName) => {
   }
 }
 
-if (/^([A-Za-z\-\_\d])+$/.test(projectName)) createPrismaApp(projectName)
-else console.log(chalk.bgRed.white('invalid project name'))
+if (/^([A-Za-z\-\_\d])+$/.test(projectName) && projectName !== undefined)
+  createPrismaApp(projectName)
+else
+  console.log(
+    chalk.bgRed.white(`project name  <${projectName}> is an invalid name`)
+  )

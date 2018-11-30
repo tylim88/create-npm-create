@@ -1,3 +1,23 @@
+# 1.0.12
+
+- finalize and republish 1.0.11
+
+# 1.0.11
+
+- fix renaming .gitignore bug
+
+# 1.0.10
+
+- try rename .gitignore
+
+# 1.0.9
+
+- test copy .gitignore
+
+# 1.0.8
+
+- test npm ignore
+
 # 1.0.7
 
 - update readme
