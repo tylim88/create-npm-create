@@ -15,6 +15,6 @@ It is very easy to use, simply put the project you want to bootstrap into the te
 
 after you are done with your package name and description, simply npm publish.
 
-What it does:
--copy everything in template directory when your user run create-example-app <project-name>
+What it does:  
+-copy everything in template directory when your user run create-example-app <project-name>  
 -automatically install the dependency for your user.
