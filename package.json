@@ -18,8 +18,9 @@
     "app",
     "bootstrap",
     "create-example-app",
-    "create-npm-package",
-    "boilerplate"
+    "create-npm-create",
+    "boilerplate",
+    "template"
   ],
   "bin": {
     "create-npm-create": "./cli.js"
