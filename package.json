@@ -1,7 +1,7 @@
 {
-  "name": "npm-create-package",
+  "name": "create-npm-package",
   "version": "1.0.0",
-  "description": "npm-create-package",
+  "description": "create-npm-package",
   "author": "tylim",
   "license": "MIT",
   "repository": {
@@ -12,10 +12,12 @@
     "url": "https://github.com/tylim88/npm-create-package/issues"
   },
   "keywords": [
-    "prisma",
-    "graphql",
-    "yoga",
-    "create-prisma-app",
+    "npm",
+    "package",
+    "create","app",
+    "bootstrap",
+    "create-example-app",
+    "create-npm-package",
     "boilerplate"
   ],
   "bin": {

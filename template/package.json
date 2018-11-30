@@ -12,10 +12,10 @@
     "url": ""
   },
   "keywords": [
-    "prisma",
-    "graphql",
-    "yoga",
-    "create-prisma-app",
+    "create",
+    "app",
+    "bootstrap",
+    "create-example-app",
     "boilerplate"
   ],
   "bin": {
