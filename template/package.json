@@ -1,7 +1,7 @@
 {
-  "name": "create-example-package",
+  "name": "create-example-app",
   "version": "1.0.0",
-  "description": "create-example-package",
+  "description": "create-example-app",
   "author": "",
   "license": "MIT",
   "repository": {
@@ -19,7 +19,7 @@
     "boilerplate"
   ],
   "bin": {
-    "create-prisma-app": "./cli.js"
+    "create-example-app": "./cli.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",

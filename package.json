@@ -1,6 +1,6 @@
 {
   "name": "create-npm-create",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create-npm-create",
   "author": "tylim",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "boilerplate"
   ],
   "bin": {
-    "create-prisma-app": "./cli.js"
+    "create-npm-create": "./cli.js"
   },
   "dependencies": {
     "chalk": "^2.4.1",
