@@ -1,4 +1,4 @@
-# Create NPM Package
+# Create NPM Create
 
 Quick Start:
 

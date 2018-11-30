@@ -1,20 +1,21 @@
 {
-  "name": "create-npm-package",
+  "name": "create-npm-create",
   "version": "1.0.0",
-  "description": "create-npm-package",
+  "description": "create-npm-create",
   "author": "tylim",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylim88/npm-create-package"
+    "url": "https://github.com/tylim88/npm-create-create"
   },
   "bugs": {
-    "url": "https://github.com/tylim88/npm-create-package/issues"
+    "url": "https://github.com/tylim88/npm-create-create/issues"
   },
   "keywords": [
     "npm",
     "package",
-    "create","app",
+    "create",
+    "app",
     "bootstrap",
     "create-example-app",
     "create-npm-package",
