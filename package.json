@@ -1,0 +1,48 @@
+{
+  "name": "npm-create-package",
+  "version": "1.0.0",
+  "description": "npm-create-package",
+  "author": "tylim",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tylim88/npm-create-package"
+  },
+  "bugs": {
+    "url": "https://github.com/tylim88/npm-create-package/issues"
+  },
+  "keywords": [
+    "prisma",
+    "graphql",
+    "yoga",
+    "create-prisma-app",
+    "boilerplate"
+  ],
+  "bin": {
+    "create-prisma-app": "./cli.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "execa": "^1.0.0",
+    "fs-extra": "^7.0.1"
+  },
+  "devDependencies": {
+    "husky": "^1.2.0",
+    "prettier": "^1.15.2",
+    "pretty-quick": "^1.8.0"
+  },
+  "prettier": {
+    "eslintIntegration": true,
+    "singleQuote": true,
+    "jsxSingleQuote": true,
+    "trailingComma": "es5",
+    "semi": false,
+    "arrowParens": "always"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}
