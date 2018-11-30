@@ -1,1 +1,1 @@
-This project was bootstrapped with [Create NPM Package](https://github.com/tylim88/npm-create-package).
+This project was bootstrapped with [Create NPM Create](https://github.com/tylim88/create-npm-create).

@@ -1,4 +1,9 @@
-# 1.0.4
+# 1.0.6
+
+- update template's readme
+- fix accepting empty project name bug
+
+# 1.0.5
 
 - fix readme
 
