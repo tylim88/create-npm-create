@@ -1,3 +1,7 @@
+# 1.0.13
+
+- add clearer instruction in readme
+
 # 1.0.12
 
 - finalize and republish 1.0.11

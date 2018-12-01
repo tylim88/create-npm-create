@@ -15,7 +15,12 @@ Welcome to packageception 😈
 
 to put it simple: this is a package that allow you to create something like create-react-app, but much simpler and easier to use.
 
-It is very easy to use, simply copy the content of project you want to bootstrap into the template folder, you can study this example [Create Prisma App](https://github.com/tylim88/create-prisma-app)
+It is very easy to use, just follow this step:
+
+1. rename your .gitignore to toBeRenamed
+2. simply copy the content of project you want to bootstrap into the template folder
+
+you can study this example [Create Prisma App](https://github.com/tylim88/create-prisma-app)
 
 after you are done with your package name and description, simply npm publish.
 
