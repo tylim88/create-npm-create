@@ -1,3 +1,7 @@
+# 1.0.16
+
+- housekeeping
+
 # 1.0.15
 
 - try to fix missing image in npm package
