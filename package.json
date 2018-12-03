@@ -1,6 +1,6 @@
 {
   "name": "create-npm-create",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "description": "create-npm-create",
   "author": "tylim",
   "license": "MIT",
@@ -20,7 +20,9 @@
     "create-example-app",
     "create-npm-create",
     "boilerplate",
-    "template"
+    "template",
+    "project",
+    "generator"
   ],
   "bin": {
     "create-npm-create": "./cli.js"
