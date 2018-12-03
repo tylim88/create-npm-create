@@ -24,7 +24,7 @@ It is very easy to use, after installation, just follow the steps:
 
 you can study this example [Create Prisma App](https://github.com/tylim88/create-prisma-app) and [Create Next Apollo](https://github.com/tylim88/create-next-apollo)
 
-it will finally look like this(go to github if image is missing)  
+finally it looks like this  
 ![](./img/example.png)
 
 after you are done with your package name and description, simply npm publish.
