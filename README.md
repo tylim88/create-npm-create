@@ -32,3 +32,7 @@ after you are done with your package name and description, simply npm publish.
 What it does:  
 -copy everything in template directory when your user run create-example-app project-name  
 -automatically install the dependency for your user.
+
+## Acknowledgement
+
+Greatly inspired by [Create Next App](https://github.com/segmentio/create-next-app)
