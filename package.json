@@ -1,15 +1,15 @@
 {
   "name": "create-npm-create",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "create-npm-create",
   "author": "tylim",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylim88/npm-create-create"
+    "url": "https://github.com/tylim88/create-npm-create"
   },
   "bugs": {
-    "url": "https://github.com/tylim88/npm-create-create/issues"
+    "url": "https://github.com/tylim88/create-npm-create/issues"
   },
   "keywords": [
     "npm",
