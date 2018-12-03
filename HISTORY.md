@@ -1,3 +1,7 @@
+# 1.0.15
+
+- try to fix missing image in npm package
+
 # 1.0.14
 
 - add clearer instruction in readme
