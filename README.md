@@ -22,7 +22,7 @@ It is very easy to use, after installation, just follow the steps:
 1. rename project A .gitignore to toBeRenamed
 2. copy everything in project A (except node_modules and etc etc) into the template folder
 
-you can study this example [Create Prisma App](https://github.com/tylim88/create-prisma-app) and [Create Next Apollo](https://github.com/tylim88/create-next-apollo)
+you can study this example [Create Prisma App](https://www.npmjs.com/package/create-prisma-app) and [Create Next Apollo](https://www.npmjs.com/package/create-next-apollo)
 
 finally it looks like this  
 ![](./img/example.png)
@@ -35,4 +35,4 @@ What it does:
 
 ## Acknowledgement
 
-Greatly inspired by [Create Next App](https://github.com/segmentio/create-next-app)
+Greatly inspired by [Create Next App](https://www.npmjs.com/package/create-next-app)
